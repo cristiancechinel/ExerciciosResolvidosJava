@@ -1,5 +1,5 @@
 
-class Tempo{
+public class Tempo{
     private	int ano;
     private	int mes;
     private	int dia;
